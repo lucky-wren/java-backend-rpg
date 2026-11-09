@@ -1,0 +1,23 @@
+{
+  "name": "Java 后端勇者闯关 · 从零到五年",
+  "short_name": "Java勇者",
+  "description": "把两份 Java 后端手册变成能打怪升级的复习游戏：逐题精讲、主动回忆、记忆曲线、在线写代码与项目工坊。",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0f1e",
+  "theme_color": "#0a0f1e",
+  "lang": "zh-CN",
+  "categories": ["education", "developer tools"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "继续闯关", "url": "./index.html#map" },
+    { "name": "今日复习", "url": "./index.html#review" }
+  ]
+}
